@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-full-of-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Heart Full Of Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-full-of-love/) |
+| **Get License** | [Music Rights & Licensing for Heart Full Of Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-full-of-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `95763f2e13a9a9c2b9ab9914338093da88de89275114cbe7c396ee4b09a90f9a` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-full-of-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Heart Full Of Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-full-of-love/) |
+| **Get License** | [Music Rights & Licensing for Heart Full Of Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-full-of-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got a midnight moon shining off your skin
+> And a slow burn feeling that’s pulling me in
+> Every breath you take is a spark in the dark
+> Leaving a fire in the shape of my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `95763f2e13a9a9c2b9ab9914338093da88de89275114cbe7c396ee4b09a90f9a` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
